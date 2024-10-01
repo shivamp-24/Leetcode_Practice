@@ -18,9 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0685-redundant-connection-ii) |
+| [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0685-redundant-connection-ii) |
+| [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
+## Array
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
+## String
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
