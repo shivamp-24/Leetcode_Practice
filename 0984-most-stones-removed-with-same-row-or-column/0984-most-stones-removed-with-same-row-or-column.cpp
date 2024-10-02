@@ -1,34 +1,70 @@
+class DisjointSet {
+    public:
+    vector<int> parent,size,rank;
+        DisjointSet(int n){
+            parent.resize(n+1);
+            size.resize(n+1,1);
+            rank.resize(n+1,0);
+            for(int i=0;i<=n;i++) parent[i]=i;
+        }
+        
+        int findUPar(int node){
+            if(node==parent[node]) return node;
+            return parent[node]=findUPar(parent[node]);
+        }
+        
+        void unionByRank(int u, int v){
+            int ulp_u=findUPar(u);
+            int ulp_v=findUPar(v);
+            if(ulp_u==ulp_v) return;
+            if(rank[ulp_u] < rank[ulp_v]){
+                parent[ulp_u]=ulp_v;
+            }
+            else if(rank[ulp_u] > rank[ulp_v]){
+                parent[ulp_v]=ulp_u;
+            }
+            else{
+                parent[ulp_u]=ulp_v;
+                rank[ulp_v]++;
+            }
+        }
+        
+        void unionBySize(int u, int v){
+            int ulp_u=findUPar(u);
+            int ulp_v=findUPar(v);
+            if(ulp_u==ulp_v) return;
+            if(size[ulp_u] < size[ulp_v]){
+                parent[ulp_u]=ulp_v;
+                size[ulp_v]+=size[ulp_u];
+            }
+            else{
+                parent[ulp_v]=ulp_u;
+                size[ulp_u]+=size[ulp_v];
+            }
+        }
+};
+
 class Solution {
 public:
-
-    void dfs(int u, vector<vector<int>> &adj, vector<int> &vis){
-        vis[u]=1;
-        for(auto &v: adj[u]){
-            if(!vis[v]) dfs(v, adj, vis);
-        }
-    }
-
     int removeStones(vector<vector<int>>& stones) {
         int n=stones.size();
-        vector<vector<int>> adj(n);
+        unordered_map<int,vector<int>> mx,my;
+        DisjointSet ds(n);
         for(int i=0;i<n;i++){
-            int x=stones[i][0], y=stones[i][1];
-            for(int j=i+1;j<n;j++){
-                int x1=stones[j][0], y1=stones[j][1];
-                if(x==x1 || y==y1){
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
-                }
+            int x=stones[i][0],y=stones[i][1];
+            if(mx.find(x)!=mx.end()){
+                ds.unionByRank(i,mx[x][0]);
             }
+            if(my.find(y)!=my.end()){
+                ds.unionByRank(i,my[y][0]);
+            }
+            mx[x].push_back(i);
+            my[y].push_back(i);
         }
-        int cc=0;
-        vector<int> vis(n,0);
+        int ans=0;
         for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i, adj, vis);
-                cc++;
-            }
+            if(ds.parent[i]==i) ans++;
         }
-        return n-cc;
+        return n-ans;
     }
 };
