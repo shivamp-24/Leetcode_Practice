@@ -52,10 +52,10 @@ public:
         DisjointSet ds(n);
         for(int i=0;i<n;i++){
             int x=stones[i][0],y=stones[i][1];
-            if(mx.find(x)!=mx.end()){
+            if(mx[x].size()){
                 ds.unionByRank(i,mx[x][0]);
             }
-            if(my.find(y)!=my.end()){
+            if(my[y].size()){
                 ds.unionByRank(i,my[y][0]);
             }
             mx[x].push_back(i);
