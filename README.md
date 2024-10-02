@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0685-redundant-connection-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0685-redundant-connection-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0685-redundant-connection-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 ## Array
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
