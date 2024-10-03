@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0954-maximum-sum-circular-subarray) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
