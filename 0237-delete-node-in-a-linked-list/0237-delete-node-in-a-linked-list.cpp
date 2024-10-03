@@ -9,6 +9,8 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
+        ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
         node->val=node->next->val;
         node->next=node->next->next;
         return;
