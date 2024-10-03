@@ -24,19 +24,15 @@ public:
         q.push(root);
         while(!q.empty()){
             int sz=q.size();
-            Node* prev=q.front();
-            q.pop();
-            if(prev->left) q.push(prev->left);
-            if(prev->right) q.push(prev->right);
-            for(int i=1;i<sz;i++){
+            Node* right=NULL;
+            for(int i=0;i<sz;i++){
                 Node* curr=q.front();
                 q.pop();
-                if(curr->left) q.push(curr->left);
                 if(curr->right) q.push(curr->right);
-                prev->next=curr;
-                prev=curr;
+                if(curr->left) q.push(curr->left);
+                curr->next=right;
+                right=curr;
             }
-            prev->next=NULL;
         }
         return root;
     }
