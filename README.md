@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Queue
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
