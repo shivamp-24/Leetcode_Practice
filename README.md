@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
+| [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
