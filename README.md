@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
