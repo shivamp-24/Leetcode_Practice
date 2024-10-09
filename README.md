@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [2457-count-special-integers](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2457-count-special-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [2457-count-special-integers](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2457-count-special-integers) |
 ## Design
 |  |
 | ------- |
