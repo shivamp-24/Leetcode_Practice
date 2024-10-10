@@ -1,19 +1,28 @@
 class Solution {
 public:
     int maxWidthRamp(vector<int>& nums) {
-        int n=nums.size();
-        vector<int> ind(n);
-        for(int i=0;i<n;i++) ind[i]=i;
-        sort(ind.begin(), ind.end(),[&](int i, int j){
-            if(nums[i]!=nums[j]) return nums[i]<nums[j];
-            return i<j;
-        });
-        int mini=ind[0];
-        int ans=0;
-        for(int i=1;i<n;i++){
-            ans=max(ans, ind[i]-mini);
-            mini=min(mini, ind[i]);
+        int n = nums.size();
+        stack<int> indicesStack;
+
+        // Fill the stack with indices in increasing order of their values
+        for (int i = 0; i < n; i++) {
+            if (indicesStack.empty() || nums[indicesStack.top()] >= nums[i]) {
+                indicesStack.push(i);
+            }
         }
-        return ans;
+
+        int maxWidth = 0;
+
+        // Traverse the array from the end to the start
+        for (int j = n - 1; j >= 0; j--) {
+            while (!indicesStack.empty() &&
+                   nums[indicesStack.top()] <= nums[j]) {
+                maxWidth = max(maxWidth, j - indicesStack.top());
+                // Pop the index since it's already processed
+                indicesStack.pop();
+            }
+        }
+
+        return maxWidth;
     }
 };
