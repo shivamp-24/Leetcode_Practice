@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
 ## String
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
