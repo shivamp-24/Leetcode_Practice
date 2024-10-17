@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0670-maximum-swap](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0670-maximum-swap) |
 | [2457-count-special-integers](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2457-count-special-integers) |
 ## Design
 |  |
