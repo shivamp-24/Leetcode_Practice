@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0685-redundant-connection-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0685-redundant-connection-ii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
 |  |
@@ -120,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Stack
 |  |
 | ------- |
