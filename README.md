@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1002-maximum-width-ramp) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0552-student-attendance-record-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0552-student-attendance-record-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2457-count-special-integers](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2457-count-special-integers) |
 ## Hash Table
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
