@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
@@ -179,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0670-maximum-swap) |
 | [2457-count-special-integers](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2457-count-special-integers) |
+| [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
 | ------- |
@@ -227,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
