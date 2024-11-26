@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [3189-find-champion-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3189-find-champion-ii) |
 ## Array
 |  |
 | ------- |
