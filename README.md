@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3291-find-if-array-can-be-sorted) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Queue
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
