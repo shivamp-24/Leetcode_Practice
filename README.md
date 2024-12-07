@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1694-make-sum-divisible-by-p](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shivamp-24/Leetcode_Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
