@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
