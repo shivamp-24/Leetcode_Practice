@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3639-zero-array-transformation-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3639-zero-array-transformation-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Queue
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivamp-24/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shivamp-24/Leetcode_Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shivamp-24/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
